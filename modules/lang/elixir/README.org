@@ -33,7 +33,7 @@ or [[https://github.com/elixir-lsp/elixir-ls/][elixir-ls]].
 You should have Elixir installed, for example, via your distribution's package
 manager or a version management tool such as [[https://github.com/asdf-vm/asdf-elixir][asdf]].
 
-If you want to add support for LSP ([[modules/tools/lsp][:tools lsp]]), be sure to install [[https://github.com/JakeBecker/elixir-ls/][elixir-ls]]
+If you want to add support for LSP ([[modules/tools/lsp][:tools lsp]]), be sure to install [[https://github.com/elixir-lsp/elixir-ls][elixir-ls]]
 and enable ~:tools lsp~ in your ~init.el~.
 
 To support linting with [[https://github.com/rrrene/credo][credo]], add ~:checkers syntax~ to your ~init.el~
